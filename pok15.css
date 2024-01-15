@@ -1,0 +1,39 @@
+.friv
+{
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
+.friv:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(242, 255, 0);
+    opacity: 0.5;
+    
+}
+.friv:hover
+{
+    background-color: rgb(255, 0, 0);
+    color: rgb(242, 255, 0);
+    opacity: 0.5;
+    
+}
+.free
+{
+    color: rgb(5, 255, 255);
+    text-align: center;
+    justify-content: center;
+    font-size: large;
+}
+.a
+{
+    padding:100px;
+    width: 100px;
+        background-color:black;
+        color: yellow;
+       border-radius: 10px ;
+       font-size:medium;
+}
